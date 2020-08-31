@@ -1,0 +1,32 @@
+[
+	{
+		"title": "お昼寝",
+		"slug": "お昼寝",
+		"status": "nomal",
+		"desc": "寝過ぎは注意！"
+	},
+	{
+		"title": "ご飯",
+		"slug": "ご飯",
+		"status": "nomal",
+		"desc": "バランスよく食べよう！"
+	},
+	{
+		"title": "勉強",
+		"slug": "勉強",
+		"status": "good",
+		"desc": "勉強してえらい！"
+	},
+	{
+		"title": "スマホ",
+		"slug": "スマホ",
+		"status": "bad",
+		"desc": "次は頑張ろう！"
+	},
+	{
+		"title": "筋トレ",
+		"slug": "筋トレ",
+		"status": "good",
+		"desc": "よく頑張った！"
+	}
+]
