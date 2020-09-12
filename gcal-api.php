@@ -1,6 +1,6 @@
 <?php
 require_once __DIR__.'/vendor/autoload.php';
-$aimJsonPath = __DIR__ . '/key/my-project-81076-portfoolio-575b7e3dcecd.json';
+$aimJsonPath = getenv('APIKEY');
 $client = new Google_Client();
 $client->setApplicationName('portfolio');
 // 予定を取得する時は Google_Service_Calendar::CALENDAR_READONLY
